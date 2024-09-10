@@ -7,7 +7,7 @@
 
 - 👨‍💻 You can see a little about me at [https://gerardoamayacv.info/](https://gerardoamayacv.info/)
 
-- 💬 Ask me about **node, next, python, django, flask, php, laravel**
+- 💬 Ask me about **Node.js, Express.js, Python (Django, Flask), PHP (Laravel)*
 
 - 📫 How to reach me **gerardoamayasv2000@gmail.com**
 
